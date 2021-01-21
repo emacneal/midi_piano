@@ -1,4 +1,3 @@
-This project consists of a 3D model of a player piano, or pianola, and accompanying scripts that keyframe piano playing and generate a texture file for
-the interior piano roll based on MIDI input.
+This project consists of a 3D model of a player piano, or pianola, and accompanying scripts that keyframe piano playing and generate a texture file for the interior piano roll based on MIDI input.
 
 Mido required. Numpy version must be Maya compatible.
